@@ -79,6 +79,12 @@ div.questions p{
   margin-top: 30px;
 }
 
+div.questions a.btn{
+  border-radius: 5px;
+  color: #FFF
+  background-color:
+}
+
 footer{
   border-top: 1px solid #ccc;
   margin-top: 80px;
